@@ -1,0 +1,12 @@
+-classpath 'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\build\\classes\\java\\main;C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\build\\resources\\main'
+-d 'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\build\\docs\\javadoc'
+-doctitle 'musicShop 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'musicShop 1.0-SNAPSHOT API'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\core\\Authorization.java'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\core\\ConsoleLogic.java'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\core\\DataBase.java'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\core\\Main.java'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\pojo\\Item.java'
+'C:\\Users\\AraslanovRD\\IdeaProjects\\musicShop\\src\\main\\java\\pojo\\User.java'
